@@ -1,7 +1,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "https://revpower.io"
+  to = "https://revpower-demo.netlify.app"
   status = 200
 
 [[headers]]
