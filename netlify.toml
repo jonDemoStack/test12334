@@ -1,7 +1,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "https://revpower.io"
   status = 200
 
 [[headers]]
