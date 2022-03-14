@@ -2,7 +2,7 @@
 [[redirects]]
   from = "https://hopeful-noether-2a22a6.netlify.app/editor.html"
   to = "https://revpower-demo.netlify.app/index.html"
-  status = 400
+  status = 404
 
 [[headers]]
 for = "/*"
