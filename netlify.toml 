@@ -1,5 +1,4 @@
 [[redirects]]
-from = "/*"
-to = "https://revpower-secure.netlify.app"
-status = 404
-force = false
+  from = "/*"
+  to = "/index.html"
+  status = 200
