@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <button onClick={() => window.location.href="/editor"}> testt</button>
       </header>
     </div>
   );
