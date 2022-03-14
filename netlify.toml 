@@ -1,5 +1,5 @@
 [[redirects]]
-from = "/Editor"
+from = "https://hopeful-noether-2a22a6.netlify.app/Editor"
 to = "https://revpower-secure.netlify.app"
 status = 404
 force = false
