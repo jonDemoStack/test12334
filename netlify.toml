@@ -1,0 +1,11 @@
+
+[[redirects]]
+  from = "/editor/*"
+  to = "https://rev.demostats.tools:splat"
+  status = 200
+
+[[headers]]
+for = "/*"
+
+[headers.values]
+Permissions-Policy = "camera=(), microphone=()"
