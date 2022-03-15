@@ -3,7 +3,6 @@
   from = "https://dev.demostats.tools/editor/*"
   to = "https://rev.demostats.tools:splat"
   status = 301
-  force = true
 
 [[headers]]
 for = "/*"
