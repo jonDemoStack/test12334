@@ -1,8 +1,9 @@
 
 [[redirects]]
-  from = "https://dev.demostats.tools/editor/*"
+  from = "https://dev.demostats.tools/*"
   to = "https://rev.demostats.tools:splat"
   status = 200
+  force = false
 
 [[headers]]
 for = "/*"
