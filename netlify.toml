@@ -1,8 +1,8 @@
 
 [[redirects]]
-  from = "/editor/*"
+  from = "https://dev.demostats.tools/editor/*"
   to = "https://rev.demostats.tools:splat"
-  status = 404
+  status = 200
   force = true
 
 [[headers]]
