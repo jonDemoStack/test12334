@@ -1,9 +1,9 @@
 
 [[redirects]]
-  from = "https://dev.demostats.tools/*"
-  to = "https://rev.demostats.tools:splat"
-  status = 200
-  force = false
+from = "/*"
+to = "https://pensive-yalow-cd22c7.netlify.app:splat"
+status = 200
+force = false
 
 [[headers]]
 for = "/*"
