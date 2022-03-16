@@ -1,9 +1,9 @@
 
 [[redirects]]
-from = "/some-test123.netlify.app/*"
-to = "https://pensive-yalow-cd22c7.netlify.app:splat"
+from = "/*"
+to = "revpower-demo.netlify.app"
 status = 200
-force = false
+
 
 [[headers]]
 for = "/*"
