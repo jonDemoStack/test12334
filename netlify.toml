@@ -1,9 +1,8 @@
 
 [[redirects]]
-from = "/editor/*"
+from = "/editor/:splat"
 to = "https://revpower-demo.netlify.app/:splat"
 status = 200
-force = true
 
 
 [[headers]]
