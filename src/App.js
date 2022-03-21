@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import {useEffect} from "react";
 
 function App() {
+  useEffect(() =>{
+    fetch('https://dev.demostats.tools/.netlify/functions/cookei').then((res) =>console.log(res)).catch((e)=> console.log(e))
+  },[])
   return (
     <div className="App">
       <header className="App-header">

@@ -4,6 +4,8 @@ from = "/editor"
 to = "https://rev-demo.netlify.app/.netlify/functions/testing"
 status = 200
 
+[functions]
+directory = "functions"
 
 
 
